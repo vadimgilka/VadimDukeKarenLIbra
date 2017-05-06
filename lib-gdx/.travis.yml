@@ -2,6 +2,6 @@ language: java
 jdk:
        - oraclejdk8
 script:
-       - cd C:\Users\Вадим\Desktop\VadimDukeKarenLIbra\lib-gdx
+       - cd VadimDukeKarenLIbra/lib-gdx
        - ant test  
 
