@@ -3,5 +3,4 @@ jdk:
        - oraclejdk8
 script:
        - cd VadimDukeKarenLIbra/lib-gdx
-       - ant test  
-
+       - ant test
